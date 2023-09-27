@@ -1,3 +1,7 @@
+# TODO
+*  Integrate with LocalAI
+*  Figure out rework on existing projects
+
 # Communicative Agents for Software Development
 
 <p align="center">
