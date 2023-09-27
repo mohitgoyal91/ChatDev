@@ -1,6 +1,7 @@
 # TODO
 *  Integrate with LocalAI
 *  Figure out rework on existing projects
+*  Figure out how to interact with individual agents (Human interaction with the relevant agent)
 
 # Communicative Agents for Software Development
 
